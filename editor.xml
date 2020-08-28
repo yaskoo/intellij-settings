@@ -11,6 +11,7 @@
   <component name="EditorSettings">
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseConstructorGenericParameters" value="false" />
